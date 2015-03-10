@@ -6,8 +6,8 @@ Minimize real-value single-objective functions using evolution strategy.
 
 import numpy as np
 import matplotlib.pyplot as plt
-from ec.es import OnePlusLambdaES, OnePlusOneES
-from ec.benchmark import *
+from ecnp.es import OnePlusLambdaES, OnePlusOneES
+from ecnp.benchmark import *
 
 
 def minimize(function, runs):
