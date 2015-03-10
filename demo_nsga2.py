@@ -2,8 +2,8 @@
 """
 
 import matplotlib.pyplot as plt
-from ec.nsgaii import *
-from ec.benchmark import ZDT2Function
+from ecnp.nsgaii import *
+from ecnp.benchmark import ZDT2Function
 
 
 def minimize(function, runs):
