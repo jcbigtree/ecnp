@@ -1,4 +1,4 @@
-"""Line searchf
+"""Line search
 """
 
 import numpy as np
